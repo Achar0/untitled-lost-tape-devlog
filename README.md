@@ -11,3 +11,4 @@ This repo does **not** contain the game's source code, art, or writing — the g
 ## Posts
 
 - [001 — On Using AI in This Project](posts/001-on-using-ai-in-this-project.md)
+- [002 — The Mechanics I'm Building Around](posts/002-the-mechanics-im-building-around.md)
