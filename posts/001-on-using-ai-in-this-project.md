@@ -1,6 +1,6 @@
 # 001 — On Using AI in This Project
 
-This is the first entry in this devlog, so a quick word on what this project is before I get into the thing I actually want to talk about: **untitled** is a 2D pixel-art narrative adventure about a present-day protagonist chasing a "lostwave" song — a piece of music known to have existed but never fully recovered — first mentioned in a 1990s internet forum thread. Underneath that hunt is a quieter story about depression, and about what it looks like to slowly regain the capacity to engage with the world again. More on the design in later posts. For now: AI.
+This is the first entry in this devlog, so a quick word on what this project is before I get into the thing I actually want to talk about: **untitled-lost-tape** is a 2D pixel-art narrative adventure about a present-day protagonist chasing a "lostwave" song — a piece of music known to have existed but never fully recovered — first mentioned in a 1990s internet forum thread. Underneath that hunt is a quieter story about depression, and about what it looks like to slowly regain the capacity to engage with the world again. More on the design in later posts. For now: AI.
 
 ## I used AI to help develop this project
 
